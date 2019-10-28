@@ -53,6 +53,7 @@ $mpdf->WriteHTML('<!DOCTYPE html>
  * [param] name 保存文件名称
  * [param] F 保存到文件 D下载 I 浏览器输出（默认值）
  * [param] dir 保存到指定位置
+ * 1
  */
 // $name = '通知书.pdf';
 // $dir = './pdf';
